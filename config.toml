@@ -258,7 +258,7 @@ footer_content = "We are a awward winning multinational company. We believe in q
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 ################################### French language #####################################
-[Languages.fr]
+[Languages.no]
 languageName = "No"
 languageCode = "no-nb"
 contentDir = "content/norsk"
