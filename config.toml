@@ -123,9 +123,9 @@ weight = 6
 
 
 
-############################## French navigation ###############################
+############################## Norsk navigation ###############################
 
-[[Languages.fr.menu.main]]
+[[Languages.no.menu.main]]
 name = "About"
 URL = "about/"
 weight = 2
@@ -259,12 +259,12 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageName = "No"
+languageCode = "no-nb"
+contentDir = "content/norsk"
 weight = 2
 home = "Accueil"
 # footer content
-footer_content = "We are a awward winning multinational company. We believe in quality and standard worldwide."
+footer_content = "Norsk tekst"
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
