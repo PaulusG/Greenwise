@@ -29,12 +29,12 @@ slider:
     - title: 'How Big Can You Dream?'
       subtitle: 'We Making Difference To Great Things Possible'
       bg_image: 'images/slider/bg2.jpg'
-      image: 'images/slider/bg-thumb1.png'
+      image: 'images/slider/Dalifant-Mandelmann-2.jpg'
       image_position: 'left'
       # slider navigator
       navigator:
-        label: 'Dream'
-        icon: 'fa-hotel' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+        label: 'Vindenergi'
+        icon: 'fa-paper-plane-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
       buttons:
