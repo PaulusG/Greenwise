@@ -28,8 +28,8 @@ slider:
     ############### Slider item loop
     - title: 'How Big Can You Dream?'
       subtitle: 'We Making Difference To Great Things Possible'
-      bg_image: 'images/slider/bg2.jpg'
-      image: 'images/slider/Dalifant-Mandelmann-2.jpg'
+      bg_image: 'images/slider/Dalifant-Mandelmann-2.jpg'
+      # image: 'images/slider/Dalifant-Mandelmann-2.jpg'
       image_position: 'left'
       # slider navigator
       navigator:
