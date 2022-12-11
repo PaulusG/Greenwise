@@ -28,7 +28,6 @@ sections:
   exclude: _index.md
   templates:
   - post
-
 - type: heading
   label: Author
 - type: directory
@@ -45,7 +44,6 @@ sections:
   match: "**/*"
   templates:
   - author
-
 - type: heading
   label: Services
 - type: document
@@ -60,7 +58,6 @@ sections:
 - type: document
   path: exampleSite/data/fr/service.yml
   label: Service Data (fr)
-
 - type: heading
   label: Portfolio
 - type: document
@@ -85,7 +82,6 @@ sections:
   exclude: _index.md
   templates:
   - portfolio
-
 - type: heading
   label: Career
 - type: document
@@ -100,7 +96,6 @@ sections:
 - type: document
   path: exampleSite/data/fr/career.yml
   label: Career Content (fr)
-
 - type: heading
   label: About
 - type: document
@@ -115,7 +110,6 @@ sections:
 - type: document
   path: exampleSite/content/french/about/_index.md
   label: About Page (fr)
-
 - type: heading
   label: Pricing
 - type: document
@@ -130,7 +124,6 @@ sections:
 - type: document
   path: exampleSite/data/fr/pricing.yml
   label: Pricing Table (fr)
-
 - type: heading
   label: Team
 - type: document
@@ -145,7 +138,6 @@ sections:
 - type: document
   path: exampleSite/data/fr/team.yml
   label: Team Members (fr)
-  
 - type: heading
   label: FAQ
 - type: document
@@ -154,7 +146,6 @@ sections:
 - type: document
   path: exampleSite/content/french/faq/_index.md
   label: FAQ Page (fr)
-
 - type: heading
   label: Contact
 - type: document
@@ -163,7 +154,6 @@ sections:
 - type: document
   path: exampleSite/content/french/contact/_index.md
   label: Contact Page (fr)
-
 - type: heading
   label: All Page Content & Data
 - type: directory
@@ -171,13 +161,11 @@ sections:
   label: All Page
   create: all
   match: "**/*"
-
 - type: directory
   path: exampleSite/data
   label: All Data
   create: all
   match: "**/*"
-
 - type: heading
   label: Configuration
 - type: directory
