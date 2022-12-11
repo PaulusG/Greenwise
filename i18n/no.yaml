@@ -1,0 +1,35 @@
+- id: recent_post
+  translation: Siste innlegg
+
+- id: blog_categories
+  translation: Blog Kategorier
+
+- id: popular_tags
+  translation: Populære Tags
+
+- id: flickr_photos
+  translation: Flickr bilder
+
+- id: about_us
+  translation: Om  oss
+
+- id: continue_reading
+  translation: Les mer
+
+- id: name
+  translation: Navn
+
+- id: email
+  translation: Epost
+
+- id: subject
+  translation: Emne
+
+- id: message
+  translation: Melding
+
+- id: send_message
+  translation: Send melding
+
+- id: contact_details
+  translation: Kontakt info

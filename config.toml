@@ -263,8 +263,8 @@ languageName = "No"
 languageCode = "no-nb"
 contentDir = "content/norsk"
 weight = 2
-home = "Accueil"
+home = "Hjemme"
 # footer content
-footer_content = "Norsk tekst"
+footer_content = "Norsk tekst footer-config.toml-"
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Utviklet av [Uijting](https://pauluijting.no/no/) "
