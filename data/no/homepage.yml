@@ -5,7 +5,7 @@ slider:
     ################# Slider item loop
     - title : "Need To Invent The Future!"
       subtitle : "We Making Difference To Great Things Possible"
-      bg_image : "images/slider/bg1.jpg"
+      bg_image : "images\slider\solceller-agri-pv.png"
       image : ""
       image_position : "false"
       # slider navigator
