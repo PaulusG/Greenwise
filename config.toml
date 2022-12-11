@@ -178,7 +178,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-Greenwise_500-200.png"
+logo = "images/logo-greenwise-200-70.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
