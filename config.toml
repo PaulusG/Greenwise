@@ -131,7 +131,7 @@ URL = "about/"
 weight = 2
 
 [[Languages.no.menu.main]]
-name = "Portfolio"
+name = "Produkter"
 URL = "portfolio/"
 weight = 3
 
@@ -140,10 +140,10 @@ weight = 3
 # URL = "blog/"
 # weight = 4
 
-[[Languages.no.menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
+# [[Languages.no.menu.main]]
+# weight = 5
+# name = "Pages"
+# hasChildren = true
 
   [[Languages.no.menu.main]]
   parent = "Pages"
