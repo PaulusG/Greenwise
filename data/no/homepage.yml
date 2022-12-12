@@ -155,8 +155,8 @@ feature:
 ############################### about ##################################
 about:
   enable: true
-  title: 'Know More About Our Company'
-  subtitle: 'Why Choose Us'
+  title: ''
+  subtitle: 'Hvorfor velger oss'
   bg_image: 'images/image-block-bg.jpg'
   content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Der vi ser på hva som er riktige kostnytt forhold for deg.'
   about_item:
@@ -171,9 +171,9 @@ about:
       content: 'Greenwise samarbeider med Norske universitet og forskningsområdet om å utvikle pilot prosjekt for Enova og EV.'
 
     # about item loop
-    - name: 'Day Night Support'
+    - name: 'Uavhengig av nett'
       icon: 'fa-bolt' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'For å bli mest mulig uavhengig av nett ev lagringssystemer og styringssystemer. Sentrale for å oppnå de beste resultatene.'
+      content: 'For å bli mest mulig uavhengig av nett er lagringssystemer og styringssystemer, sentrale for å oppnå de beste resultatene.'
 
 ############################### team ####################################
 team:
