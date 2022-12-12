@@ -81,7 +81,7 @@ portfolio:
 
 ############################### funfact ##################################
 funfact:
-  enable: true
+  enable: false
   funfact_item:
     # funfact item loop
     - name: 'Clients'
@@ -179,7 +179,7 @@ about:
 
 ############################### team ####################################
 team:
-  enable: true
+  enable: false
   # team content comes from "data/team.yml" file
 
 ############################ Call to action #############################
@@ -201,12 +201,12 @@ call_to_action:
 
 ############################### pricing ####################################
 pricing:
-  enable: true
+  enable: false
   # pricing content comes from "data/pricing.yml" file
 
 ############################### testimonial ####################################
 testimonial:
-  enable: true
+  enable: false
   bg_image: 'images/parallax/parallax2.jpg'
   testimonial_item:
     # testimonial item loop
