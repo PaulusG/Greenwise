@@ -158,24 +158,22 @@ about:
   title: 'Know More About Our Company'
   subtitle: 'Why Choose Us'
   bg_image: 'images/image-block-bg.jpg'
-  content:
-    'Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-    Proin gravida nibh vel velit auctor Aenean sollicitudin, adipisicing elit sed lorem quis bibendum auctor.'
+  content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Der vi ser på hva som er riktige kostnytt forhold for deg.'
   about_item:
     # about item loop
-    - name: 'Tons of Features'
-      icon: 'fa-bicycle' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Consectetur adipisicing elit sed do eiusmod tempor incididunt ut'
+    - name: '20 år erfaring'
+      icon: 'fa-asterisk' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Greenwise har 20 år erfaring i utvikling av fornybare energiløsning.'
 
     # about item loop
-    - name: 'PowerPack Theme'
-      icon: 'fa-diamond' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Consectetur adipisicing elit sed do eiusmod tempor incididunt ut'
+    - name: 'Samarbeid'
+      icon: 'fa-university' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Greenwise samarbeider med Norske universitet og forskningsområdet om å utvikle pilot prosjekt for Enova og EV.'
 
     # about item loop
     - name: 'Day Night Support'
-      icon: 'fa-street-view' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Consectetur adipisicing elit sed do eiusmod tempor incididunt ut'
+      icon: 'fa-bolt' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'For å bli mest mulig uavhengig av nett ev lagringssystemer og styringssystemer. Sentrale for å oppnå de beste resultatene.'
 
 ############################### team ####################################
 team:
