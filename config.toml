@@ -145,30 +145,30 @@ weight = 3
 # name = "Pages"
 # hasChildren = true
 
-  [[Languages.no.menu.main]]
-  parent = "Pages"
-  name = "Career"
-  URL = "career/"
+  # [[Languages.no.menu.main]]
+  # parent = "Pages"
+  # name = "Career"
+  # URL = "career/"
 
-  [[Languages.no.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service/"
+  # [[Languages.no.menu.main]]
+  # parent = "Pages"
+  # name = "Service"
+  # URL = "service/"
 
-  [[Languages.no.menu.main]]
-  parent = "Pages"
-  name = "Team"
-  URL = "team/"
+  # [[Languages.no.menu.main]]
+  # parent = "Pages"
+  # name = "Team"
+  # URL = "team/"
 
-  [[Languages.no.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq/"
+  # [[Languages.no.menu.main]]
+  # parent = "Pages"
+  # name = "FAQ"
+  # URL = "faq/"
 
-  [[Languages.no.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing/"
+  # [[Languages.no.menu.main]]
+  # parent = "Pages"
+  # name = "Pricing"
+  # URL = "pricing/"
   
 [[Languages.no.menu.main]]
 name = "Contact"
