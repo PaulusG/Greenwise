@@ -105,7 +105,7 @@ funfact:
 
 ############################### feature ##################################
 feature:
-  enable: true
+  enable: false
   feature_item:
     # feature item loop
     - name: 'Borettslag'
