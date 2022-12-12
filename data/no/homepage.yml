@@ -149,7 +149,7 @@ feature:
 
     # feature item loop
     - name: 'Industri'
-      icon: 'fa-codepen' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon: 'fa-flag' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       content: 'Store takflater kan dekkes med 'vannlige' panel på 25 kg eller med 3 kg lettvektspanel'
 
 ############################### about ##################################
