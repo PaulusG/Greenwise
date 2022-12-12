@@ -75,45 +75,45 @@ name = "About"
 URL = "about/"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Portfolio"
-URL = "portfolio/"
-weight = 3
+# [[Languages.en.menu.main]]
+# name = "Portfolio"
+# URL = "portfolio/"
+# weight = 3
 
-[[Languages.en.menu.main]]
-name = "Blog"
-URL = "blog/"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# URL = "blog/"
+# weight = 4
 
-[[Languages.en.menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
+# [[Languages.en.menu.main]]
+# weight = 5
+# name = "Pages"
+# hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Career"
-  URL = "career/"
+  # [[Languages.en.menu.main]]
+  # parent = "Pages"
+  # name = "Career"
+  # URL = "career/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service/"
+  # [[Languages.en.menu.main]]
+  # parent = "Pages"
+  # name = "Service"
+  # URL = "service/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Team"
-  URL = "team/"
+  # [[Languages.en.menu.main]]
+  # parent = "Pages"
+  # name = "Team"
+  # URL = "team/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq/"
+  # [[Languages.en.menu.main]]
+  # parent = "Pages"
+  # name = "FAQ"
+  # URL = "faq/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing/"
+  # [[Languages.en.menu.main]]
+  # parent = "Pages"
+  # name = "Pricing"
+  # URL = "pricing/"
   
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -171,7 +171,7 @@ weight = 3
   # URL = "pricing/"
   
 [[Languages.no.menu.main]]
-name = "Contact"
+name = "Kontakt"
 URL = "contact/"
 weight = 6
 
