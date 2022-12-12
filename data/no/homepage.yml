@@ -158,7 +158,7 @@ about:
   title: ''
   subtitle: 'Hvorfor velger oss'
   bg_image: 'images/image-block-bg.jpg'
-  content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Der vi ser på hva som er riktige kostnytte forhold for deg.'
+  content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Vi vurderer hva er riktig kostnytte for deg.'
   about_item:
     # about item loop
     - name: '20 år erfaring'
