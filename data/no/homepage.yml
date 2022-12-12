@@ -27,7 +27,7 @@ slider:
 
     ############### Slider item loop
     - title: 'framtiden er fornybar!'
-      subtitle: 'Lydløse vindmøller fra 1000 kW til 1100 kW'
+      subtitle: 'Lydløse vindmøller fra 1000 kW til 11000 kW'
       bg_image: 'images/slider/Dalifant-Mandelmann-2.jpg'
       # image: 'images/slider/Dalifant-Mandelmann-2.jpg'
       image_position: 'left'
@@ -45,13 +45,13 @@ slider:
 
     ############### Slider item loop
     - title: 'Framtiden er fornybar!'
-      subtitle: 'Batterie som kan repares og gjenbrukes'
+      subtitle: 'Batterier som kan repares og gjenbrukes'
       bg_image: 'images/slider/bg2.jpg'
       # image: 'images/slider/bg-thumb2.png'
       # image_position: 'right'
       # slider navigator
       navigator:
-        label: 'Tech'
+        label: 'Batteri'
         icon: 'fa-battery-three-quarters' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
