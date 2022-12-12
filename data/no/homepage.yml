@@ -108,49 +108,49 @@ feature:
   enable: true
   feature_item:
     # feature item loop
-    - name: 'Clean &amp; Modern Design'
+    - name: 'Borettslag'
       icon: 'fa-heart-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+      content: 'Vi kan i dag lage et system som lager fakture på den enkeltes forbruk av solenergi'
 
     # feature item loop
-    - name: 'Useful Shortcodes'
-      icon: 'fa-codepen' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Fiskeoppdrett'
+      icon: 'fa-tint' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Vi tilbyr system som gir 0 utslipp for de som har større dieselaggregat'
 
     # feature item loop
-    - name: 'Parallax Section'
-      icon: 'fa-film' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Parkeringsplasser'
+      icon: 'fa-cart' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi med billading'
 
     # feature item loop
-    - name: 'Multipurpose Concept'
-      icon: 'fa-newspaper-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Skoler'
+      icon: 'fa-graduation-cap' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'På skoler kan vi levere systemer som viser forbruket per klasserom, der git konkuranse og læring'
 
     # feature item loop
-    - name: 'Responsive Layout'
-      icon: 'fa-desktop' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
-
-    # feature item loop
-    - name: 'Light wight Performance'
+    - name: 'Jordbruk'
       icon: 'fa-pagelines' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+      content: 'På en gård trenger man strøm, varme og kjøling. Dette kan vi designe ut i fra lokale forhold'
 
     # feature item loop
-    - name: 'Free Lifetime Updates'
-      icon: 'fa-recycle' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Bolig'
+      icon: 'fa-home' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: '60 - 70 prosent av bolingens energibehov er varme, solvarme og lagring. sammen med varmepompe er da viktig'
 
     # feature item loop
-    - name: 'Endless Possibilites'
-      icon: 'fa-diamond' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Vegvesenet'
+      icon: 'fa-road' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Støyskjermer kan bygges med lettvekts paneler som ikke gir sol refleksjoner mot bilfører'
 
     # feature item loop
-    - name: '24/7 Live Support'
-      icon: 'fa-whatsapp' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat'
+    - name: 'Hytter'
+      icon: 'fa-flag' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Offgrid systemer basert på forbruks profiler kan vi levere med sol, lydløs vindmølle og batteri'
+
+    # feature item loop
+    - name: 'Industri'
+      icon: 'fa-codepen' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content: 'Store takflater kan dekkes med 'vannlige' panel på 25 kg eller med 3 kg lettvektspanel'
 
 ############################### about ##################################
 about:
@@ -158,7 +158,7 @@ about:
   title: ''
   subtitle: 'Hvorfor velger oss'
   bg_image: 'images/image-block-bg.jpg'
-  content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Der vi ser på hva som er riktige kostnytt forhold for deg.'
+  content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Der vi ser på hva som er riktige kostnytte forhold for deg.'
   about_item:
     # about item loop
     - name: '20 år erfaring'
