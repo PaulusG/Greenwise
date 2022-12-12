@@ -119,7 +119,7 @@ feature:
 
     # feature item loop
     - name: 'Parkeringsplasser'
-      icon: 'fa-cart' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon: 'fa-car' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi med billading'
 
     # feature item loop
