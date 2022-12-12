@@ -110,22 +110,22 @@ feature:
     # feature item loop
     - name: 'Borettslag'
       icon: 'fa-heart-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Vi kan i dag lage et system som lager fakture på den enkeltes forbruk av solenergi'
+      content: 'Vi kan lage et system som viser oversikt på den enkeltes forbruk av solenergi'
 
     # feature item loop
     - name: 'Fiskeoppdrett'
       icon: 'fa-tint' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Vi tilbyr system som gir 0 utslipp for de som har større dieselaggregat'
+      content: 'Vi tilbyr system som gir 0 utslipp for de som har store dieselaggregat'
 
     # feature item loop
     - name: 'Parkeringsplasser'
       icon: 'fa-car' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi med billading'
+      content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi, kan inkludere billading'
 
     # feature item loop
     - name: 'Skoler'
       icon: 'fa-graduation-cap' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'På skoler kan vi levere systemer som viser forbruket per klasserom, der git konkuranse og læring'
+      content: 'På skoler kan vi levere systemer som viser forbruket per klasserom, det gir konkurranse og læring'
 
     # feature item loop
     - name: 'Jordbruk'
@@ -135,12 +135,12 @@ feature:
     # feature item loop
     - name: 'Bolig'
       icon: 'fa-home' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: '60 - 70 prosent av bolingens energibehov er varme, solvarme og lagring. sammen med varmepompe er da viktig'
+      content: '60 - 70 prosent av bolingens energibehov er varme, solvarme og lagring. sammen med varmepumpe er da viktig'
 
     # feature item loop
     - name: 'Vegvesenet'
       icon: 'fa-road' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Støyskjermer kan bygges med lettvekts paneler som ikke gir sol refleksjoner mot bilfører'
+      content: 'Støyskjermer kan bygges med lettvekts paneler som ikke gir lys refleksjoner mot bilfører'
 
     # feature item loop
     - name: 'Hytter'
@@ -150,7 +150,7 @@ feature:
     # feature item loop
     - name: 'Industri'
       icon: 'fa-codepen' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Store takflater kan dekkes med -vannlige- panel på 25 kg eller med 3 kg lettvektspanel'
+      content: 'Store takflater kan dekkes med -vanlige- panel på 25 kg eller med 3 kg lettvektspanel'
 
 ############################### about ##################################
 about:
