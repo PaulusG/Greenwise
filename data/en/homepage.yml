@@ -105,7 +105,7 @@ funfact:
 
 ############################### feature ##################################
 feature:
-  enable: true
+  enable: false
   feature_item:
     # feature item loop
     - name: 'Clean &amp; Modern Design'
@@ -184,7 +184,7 @@ team:
 
 ############################ Call to action #############################
 call_to_action:
-  enable: false
+  enable: true
   title: 'Are You Ready to Buy This Template!'
   subtitle: 'Just Click Button and Use Your Own'
   bg_image: 'images/parallax/parallax1.jpg'
