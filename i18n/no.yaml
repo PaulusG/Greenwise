@@ -36,3 +36,12 @@
 
 - id: about_project
   translation: Om Prosjektet
+
+- id: used_skills
+  translation: Stikkordene
+
+- id: clients
+  translation: Klant
+
+- id: project_link
+  translation: Project lenk

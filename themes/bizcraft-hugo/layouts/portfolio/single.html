@@ -10,7 +10,7 @@
           <div class="flexportfolio flexslider">
             <ul class="slides">
               {{ range .Params.images }}
-              <li><img src="{{ . | absURL }}"></li>
+              <li><img src="{{ . | absURL }}" /></li>
               {{ end }}
             </ul>
           </div>
@@ -22,7 +22,7 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <div class="sidebar">
           <div class="portfolio-desc">
-            <h3 class="widget-title">About Project</h3>
+            <h3 class="widget-title">{{i18n `about_project`}}</h3>
             <p>{{ .Content }}</p>
             <br />
             <h3 class="widget-title">Used Skills</h3>
@@ -32,12 +32,16 @@
             <h3 class="widget-title">Clients</h3>
             <p>{{ . | markdownify }}</p>
             {{ end }}
-            <p><a href="#" class="project-btn btn btn-primary">Project Link</a></p>
+            <p>
+              <a href="#" class="project-btn btn btn-primary">Project Link</a>
+            </p>
           </div>
         </div>
       </div>
-    </div><!-- Portfolio item row end -->
-  </div><!-- Container end -->
+    </div>
+    <!-- Portfolio item row end -->
+  </div>
+  <!-- Container end -->
 </section>
 
 {{ end }}

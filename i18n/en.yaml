@@ -33,3 +33,15 @@
 
 - id: contact_details
   translation: Contact Details
+
+- id: about_project
+  translation: About project
+
+- id: used_skills
+  translation: Used skills
+
+- id: clients
+  translation: Clients
+
+- id: project_link
+  translation: Project link
