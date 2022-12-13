@@ -45,3 +45,12 @@
 
 - id: project_link
   translation: Project link
+
+- id: adress
+  translation: Address
+
+- id: email
+  translation: Email
+
+- id: phone
+  translation: Phone no.
