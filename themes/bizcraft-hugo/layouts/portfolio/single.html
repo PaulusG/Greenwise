@@ -25,15 +25,17 @@
             <h3 class="widget-title">{{i18n `about_project`}}</h3>
             <p>{{ .Content }}</p>
             <br />
-            <h3 class="widget-title">Used Skills</h3>
+            <h3 class="widget-title">{{i18n `used_skills`}}</h3>
             <p>{{ delimit .Params.skills ", " " and " }}</p>
             <br />
             {{ with .Params.Clients }}
-            <h3 class="widget-title">Clients</h3>
+            <h3 class="widget-title">{{i18n `clients`}}</h3>
             <p>{{ . | markdownify }}</p>
             {{ end }}
             <p>
-              <a href="#" class="project-btn btn btn-primary">Project Link</a>
+              <a href="#" class="project-btn btn btn-primary"
+                >{{i18n `project_link`}}</a
+              >
             </p>
           </div>
         </div>
