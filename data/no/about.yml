@@ -25,13 +25,13 @@ company_profile:
     # profile tab item loop
     - name : "Ekstra mulighett"
       icon : "fa-pagelines" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : Viu kan legge til mer emner i -no-about-yml"
+      title : Vi kan legge til mer emner i -no-about-yml"
       content : "Tekst, så mye dere vil."
       
     # profile tab item loop
     #- name : "Dedicated Support"
     #  icon : "fa-support" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "24/7 Dedicated Support"
+      title : "tittel, om hva dere vil"
     #  content : "Over the year we have lots of experience in our field. In sit amet massa sapien. Vestibulum diam turpis, gravida in lobortis id, ornare a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis nulla non elit dignissim suscipit. Duis lorem nulla, eleifend."
 
 

@@ -2,6 +2,7 @@
 <footer id="footer" class="footer">
 	<div class="container">
 		<div class="row">
+			<!-- No posts active, when blogging starts, reactive 1 av 2
 			<div class="col-md-4 col-sm-12 footer-widget">
 				<h3 class="widget-title">{{i18n `recent_post`}}</h3>
         {{ range first 3 ( where .Site.RegularPages "Section" "blog" )}}
@@ -15,12 +16,17 @@
 								{{ . | title }}</a> {{ end}}</span>
 						</p>
 					</div>
-				</div><!-- Latest Post end -->
+				</div>
+				-->
+				<!-- Latest Post end -->
+				<!-- No posts active, when blogging starts, reactive 2 av 2
 				{{ end }}
 			</div>
+			-->
 			<!--/ End Recent Posts-->
 
 
+			<!-- No flickr account avtive, can be removed
 			<div class="col-md-4 col-sm-12 footer-widget">
 				<h3 class="widget-title">{{i18n `flickr_photos`}}</h3>
 
@@ -34,6 +40,7 @@
 					</div>
 				</div>
 			</div>
+			-->
 			<!--/ end flickr -->
 
 			<div class="col-md-3 col-sm-12 footer-widget footer-about-us">
