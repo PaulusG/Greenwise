@@ -16,9 +16,9 @@ slider:
       # slider buttons
       buttons:
         # button loop
-        - label: 'Start Now'
-          style: 'white'
-          link: '#'
+        # - label: 'Start Now'
+        #  style: 'white'
+        #  link: '#'
 
         # button loop
         - label: 'Learn More'
