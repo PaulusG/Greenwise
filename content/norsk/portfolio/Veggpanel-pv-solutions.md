@@ -8,7 +8,7 @@ images:
 # clients
 clients: 'BizCraft Incorporatin Ltd.'
 # filter types
-types: ['veggpanel', '']
+types: ['veggpanel', 'solcelle']
 # used skills
 skills: ['Støyskjerm', 'lettvekt panel', '19 modules with 300 Wp', '4,8 kWp']
 # porjects link
