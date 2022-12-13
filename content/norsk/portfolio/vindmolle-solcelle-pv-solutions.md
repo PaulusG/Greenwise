@@ -9,7 +9,7 @@ images:
 # clients
 clients: 'PV solutions'
 # filter types
-types: ['vindm&oslash;lle', 'solcelle']
+types: ['vindmolle', 'solcelle']
 # used skills
 skills:
   [
