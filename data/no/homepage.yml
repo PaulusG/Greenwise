@@ -21,9 +21,9 @@ slider:
         #  link: '#'
 
         # button loop
-        - label: 'Learn More'
+        - label: 'Les mer'
           style: 'solid'
-          link: '#'
+          link: ''
 
     ############### Slider item loop
     - title: 'framtiden er fornybar!'
@@ -39,9 +39,9 @@ slider:
       # slider buttons
       buttons:
         # button loop
-        - label: 'Take a Tour'
+        - label: 'Les mer'
           style: 'solid'
-          link: '#'
+          link: '/no/portfolio/vindmolle-solcelle-pv-solutions/'
 
     ############### Slider item loop
     - title: 'Framtiden er fornybar!'
@@ -57,12 +57,12 @@ slider:
       # slider buttons
       buttons:
         # button loop
-        - label: 'Start Now'
-          style: 'white'
-          link: '#'
+        #- label: 'Les mer'
+        #  style: 'white'
+        #  link: '#'
 
         # button loop
-        - label: 'Learn More'
+        - label: 'Les mer'
           style: 'solid'
           link: '#'
 
