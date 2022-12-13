@@ -1,19 +1,19 @@
 ---
-title: "There are many variations of passages"
+title: 'There are many variations of passages'
 date: 2021-03-12T12:14:34+06:00
 # page header background image
-page_header_bg: "images/banner/banner1.jpg"
+page_header_bg: 'images/banner/banner1.jpg'
 # post thumb
-image: "images/blog/blog1.jpg"
+image: 'images/blog/blog1.jpg'
 # post author
-author: "John Doe"
+author: 'John Doe'
 # taxonomies
-categories: ["Master Planning"]
-tags: ["plan", "skill"]
+categories: ['Master Planning']
+tags: ['plan', 'skill']
 # meta description
-description: "This is meta description."
+description: 'This is meta description.'
 # save as draft
-draft: false
+draft: true
 ---
 
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle dolor sit amet.
