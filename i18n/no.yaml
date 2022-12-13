@@ -33,3 +33,6 @@
 
 - id: contact_details
   translation: Kontakt info
+
+- id: about_project
+  translation: Om Prosjektet
