@@ -5,7 +5,7 @@ date: 2020-05-12T12:14:34+06:00
 page_header_bg: 'images/banner/banner1.jpg'
 images:
   - 'images/portfolio/solfit-550-500.jpg'
-  - 'images/portfolio/portfolio2.jpg'
+  #- 'images/portfolio/portfolio2.jpg'
 # clients
 clients: 'Solfit'
 # filter types
@@ -17,7 +17,7 @@ project_link: 'https://solfit.co.uk/'
 # meta description
 description: 'This is meta description.'
 # save as draft
-draft: true
+draft: false
 ---
 
 SolFiT is an innovative, ‘in-roof’ photovoltaic (PV) solar panel system, suitable for commercial and domestic roofs of all kinds. Designed and part manufactured in the UK, its streamlined, all-black look makes it one of the most aesthetic products on the market.
