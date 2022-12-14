@@ -74,8 +74,8 @@ service:
 ############################### portfolio ##################################
 portfolio:
   enable: true
-  title: 'Our Awesome Work'
-  subtitle: 'We Making Difference To Great Things Possible'
+  title: 'Våre samarbeidspartnere'
+  subtitle: 'Vi jobber med store internasjonale selskaper'
   title_icon: 'fa-suitcase'
   # portfolio items comes from "content/portfolio" folder
 
@@ -183,19 +183,19 @@ team:
 ############################ Call to action #############################
 call_to_action:
   enable: true
-  title: 'Are You Ready to Buy This Template!'
-  subtitle: 'Just Click Button and Use Your Own'
+  title: 'Ta kontakt, bruk vårt kontaktskjema'
+  subtitle: 'så finner vi et tidspunkt for en hyggelig prat'
   bg_image: 'images/parallax/parallax1.jpg'
   buttons:
     # button loop
-    - label: 'Purchase Now'
-      style: 'white'
-      link: '#'
+    #- label: 'Purchase Now'
+    #  style: 'white'
+    #  link: '#'
 
     # button loop
-    - label: 'Get In Touch'
+    - label: 'Ta kontakt'
       style: 'solid'
-      link: '#'
+      link: '/no/kontakt'
 
 ############################### pricing ####################################
 pricing:
