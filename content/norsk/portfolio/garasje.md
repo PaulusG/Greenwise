@@ -1,11 +1,11 @@
 ---
-title: 'Fashion Brand'
+title: 'Solcelle garasje'
 date: 2020-05-12T12:14:34+06:00
 # page header background image
 page_header_bg: 'images/banner/banner1.jpg'
 images:
   - 'images/portfolio/garasjen-550-500.jpg'
-  - 'images/portfolio/garasjen-2-550-550.jpg'
+  - 'images/portfolio/garasjen-2-550-500.jpg'
 # clients
 clients: 'Garasje'
 # filter types
