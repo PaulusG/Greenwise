@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "BizCraft - Responsive Html5 Template"
+title = "Greenwise - Framtiden er fornybar"
 theme = "bizcraft-hugo"
 # post pagination
 paginate = "3"
@@ -8,6 +8,8 @@ paginate = "3"
 summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
+# Google Analytics 4
+googleAnalyticsID = "G-1BFYLQ28YR"
 # disqus short name
 disqusShortname = "#" # get your shortname form here : https://disqus.com
 
