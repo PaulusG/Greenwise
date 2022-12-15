@@ -192,8 +192,7 @@ email = "info@bexer.com"
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-# Google Analytics 4
-googleAnalyticsID = "G-1BFYLQ28YR"
+
 
 # flickr photos
 [[params.flickr_photos]]
