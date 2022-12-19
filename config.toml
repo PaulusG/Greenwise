@@ -185,9 +185,9 @@ home = "Home"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-phone = "+211234565523"
-email = "info@bexer.com"
+address = "Skotfossvegen 275 - 3720 Skien - Norge"
+phone = "+47 970 68 664"
+email = "info@greenwise.no"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
