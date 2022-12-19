@@ -1,7 +1,7 @@
 ############################### Services #############################
 services:
   title: 'Vi tilbyr'
-  subtitle: 'A Quality Experience Team with 4 years experience'
+  subtitle: 'Bærekraftige løsninger for det grønne skiftet'
   title_icon: 'fa-cogs' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
   service_item:
     # service item loop

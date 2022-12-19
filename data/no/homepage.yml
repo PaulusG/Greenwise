@@ -156,7 +156,7 @@ feature:
 about:
   enable: true
   title: ''
-  subtitle: 'Hvorfor velger oss'
+  subtitle: 'Hvorfor velge oss'
   bg_image: 'images/image-block-bg.jpg'
   content: 'Greenwise tilbyr komplette energisystemer basert på lokale forhold og behov. Vi vurderer hva er riktig kostnytte for deg.'
   about_item:
@@ -184,7 +184,7 @@ team:
 call_to_action:
   enable: true
   title: 'Ta kontakt, bruk vårt kontaktskjema'
-  subtitle: 'så finner vi et tidspunkt for en hyggelig prat'
+  subtitle: 'så finner vi et tidspunkt for en samtale'
   bg_image: 'images/parallax/parallax1.jpg'
   buttons:
     # button loop

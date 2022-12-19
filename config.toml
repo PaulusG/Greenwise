@@ -262,6 +262,6 @@ contentDir = "content/norsk"
 weight = 1
 home = "Hjemme"
 # footer content
-footer_content = "Norsk tekst footer-config.toml-"
+footer_content = "Bærekraftige løsninger for det grønne skiftet."
 # copyright
 copyright = "Utviklet av [Uijting](https://pauluijting.no/no/) "
