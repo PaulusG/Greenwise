@@ -4,11 +4,11 @@ date: 2020-05-12T12:14:34+06:00
 # page header background image
 page_header_bg: 'images/banner/banner1.jpg'
 images:
-  - 'images/portfolio/dalifant-mandelmann-2-550-500.jpg'
+  - 'images/portfolio/dalifant-mandelmann-2-550-500.png'
 # clients
 clients: 'Dalifant'
 # filter types
-types: ['vindmolle']
+types: ['vind']
 # used skills
 skills: ['Tretårn', 'online overvåkning', 'miljøvennlig', 'lavt støynivå']
 # porjects link

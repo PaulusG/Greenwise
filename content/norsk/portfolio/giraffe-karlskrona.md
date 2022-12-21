@@ -4,7 +4,7 @@ date: 2020-05-12T12:14:34+06:00
 # page header background image
 page_header_bg: 'images/banner/banner1.jpg'
 images:
-  - 'images/portfolio/GIraffe-Karlskrona-550-500-2.png'
+  - 'images/portfolio/giraffe-550-500.png'
 # clients
 clients: 'Giraffe'
 # filter types
