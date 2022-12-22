@@ -7,22 +7,22 @@ services:
     # service item loop
     - name: 'Befarer'
       icon: 'fa-tachometer' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor'
+      content: 'We provide financial lease options for our corporate solar projects. For other solutions, we can help you apply for grants or subsidies in the field through our public sector team.'
 
     # service item loop
     - name: 'Planlegger'
       icon: 'fa-android' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor'
+      content: 'That means we support the entire part of your project - from solution design and planning all the way through installation, maintenance and optimization over time.'
 
     # service item loop
     - name: 'Installerer'
       icon: 'fa-shopping-cart' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor'
+      content: 'We deliver the project, develop the solution and integrate the solution in your company.'
 
     # service item loop
-    - name: 'Vedlikehold'
+    - name: 'Optimaliserer'
       icon: 'fa-lightbulb-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor'
+      content: 'We optimize the energy transformation of yopu rprojects.'
 
     # service item loop
     - name: 'Web Design'

@@ -25,3 +25,7 @@ SolFiT is an innovative, ‘in-roof’ photovoltaic (PV) solar panel system, sui
 The easy connecting design makes it faster and safer to install in all kinds of configurations, allowing installers to simply click and go, with the roof tiles fitting alongside for a perfectly flush finish.
 
 Each highly durable and MCS Certified panel is fully weatherproof and resistant to wind up-lift, and at 370Wp it is the highest output roof panel on the market.
+
+With its all-black in-line aesthetic and strong, durable design, SolFiT looks amazing and will deliver highly efficient energy for decades to come. Take a look at out our gallery to see the finished results.
+
+SolFiT’s simple interlocking framing system is easier, faster and safer to fit than most other solar panel products, with no fiddly seals to worry about, or gaskets, clamps, clips, brackets or plastic. If you’re starting an install, take a look at our Resources page to find everything you need.

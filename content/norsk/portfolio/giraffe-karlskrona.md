@@ -19,26 +19,10 @@ description: 'This is meta description.'
 draft: false
 ---
 
-The GIRAFFE is a state-of-theart
-hybrid solution that catches
-the eyes of everyone and provides
-higher energy density than
-any other product on the market.
+The GIRAFFE is a state-of-the art hybrid solution that catches the eyes of everyone and provides higher energy density thanany other product on the market.
 
-The curved wooden frame
-of the GIRAFFE is made out of
-glue-laminated larch wood and
-incorporates intelligent angling
-of the solar panels which enables
-40 m2 of solar panels on a
-25 m2 footprint and micro-inverters
-which offers an additional
-four hours of energy production.
+The curved wooden frame of the GIRAFFE is made out of
+glue-laminated larch wood and incorporates intelligent angling of the solar panels which enables 40 m2 of solar panels on a 25 m2 footprint and micro-inverters which offers an additional four hours of energy production.
 
-This award-winning hybrid solution
-is highly suitable as a charging
-station for eMobility vehicles
-or as an eye-catching power
-station for businesses, small/
-medium houses, community projects,
-and other public spaces
+This award-winning hybrid solution is highly suitable as a charging station for eMobility vehicles or as an eye-catching power station for businesses, small/
+medium houses, community projects, and other public spaces.
