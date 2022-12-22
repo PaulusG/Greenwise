@@ -231,7 +231,7 @@ clients_logo_slider:
   slider_item:
     # slider item loop
     - name: 'Koolen Industries'
-      logo: 'images/clients/Koolen_Industries_Colour_Clean energy for everyone.webp'
+      logo: 'images/clients/Koolen_Industries_Colour_Clean energy for everyone.png'
       link: 'https://www.koolenindustries.com/'
 
     # slider item loop
