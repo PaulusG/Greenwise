@@ -75,7 +75,7 @@ service:
 portfolio:
   enable: true
   title: 'Våre samarbeidspartnere'
-  subtitle: 'Vi jobber med store internasjonale selskaper'
+  subtitle: 'Our mission is to make clean energy the new normal for everyone. Affordable. Attainable. Available.'
   title_icon: 'fa-suitcase'
   # portfolio items comes from "content/portfolio" folder
 
