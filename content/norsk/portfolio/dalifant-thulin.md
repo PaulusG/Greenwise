@@ -8,7 +8,7 @@ images:
 # clients
 clients: 'Dalifant'
 # filter types
-types: ['vindmolle']
+types: ['vind']
 # used skills
 skills: ['Tretårn', 'online overvåkning', 'miljøvennlig', 'lavt støynivå']
 # porjects link

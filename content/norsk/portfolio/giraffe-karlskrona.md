@@ -8,7 +8,7 @@ images:
 # clients
 clients: 'Giraffe'
 # filter types
-types: ['vindmolle']
+types: ['vind']
 # used skills
 skills: ['165 kg', '5,5kW', '4 mtr', 'Minimal lyd']
 # porjects link
@@ -19,12 +19,26 @@ description: 'This is meta description.'
 draft: false
 ---
 
-Hur fungerar GIRAFFEN?
+The GIRAFFE is a state-of-theart
+hybrid solution that catches
+the eyes of everyone and provides
+higher energy density than
+any other product on the market.
 
-GIRAFFE är ett hybridkraftverk som är redo att ladda allt från ditt efordon till ditt hem genom att fånga energi från vind och sol. Denna futuristiska men naturliga konstruktion består av en träkonstruktion
-som stöder solmoduler samt ett vindkraftverk.
+The curved wooden frame
+of the GIRAFFE is made out of
+glue-laminated larch wood and
+incorporates intelligent angling
+of the solar panels which enables
+40 m2 of solar panels on a
+25 m2 footprint and micro-inverters
+which offers an additional
+four hours of energy production.
 
-Intelligent positionering av solpaneler i 24 olika vinklar möjliggör stabil energiproduktion och ger ytterligare fyra timmars produktion jämfört
-med en klassisk, platt solcellsinstallation.
-
-Giraffen är tillgänglig med en 5,5 eller 7,5 kW turbin och solpanelerna ger effektkapacitet från 7,0 till 9,6 kWp beroende på vald uppsättning.
+This award-winning hybrid solution
+is highly suitable as a charging
+station for eMobility vehicles
+or as an eye-catching power
+station for businesses, small/
+medium houses, community projects,
+and other public spaces
