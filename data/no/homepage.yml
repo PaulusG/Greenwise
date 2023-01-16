@@ -4,7 +4,7 @@ slider:
   slider_item:
     ################# Slider item loop
     - title: 'Framtiden er fornybar!'
-      subtitle: 'Kortreiste europeiske solceller'
+      subtitle: 'Kortreiste europeiske energiløsninger'
       bg_image: 'images/slider/solceller-agri-pv.png'
       image: ''
       image_position: 'false'
