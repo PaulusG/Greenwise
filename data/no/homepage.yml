@@ -5,7 +5,7 @@ slider:
     ################# Slider item loop
     - title: 'Framtiden er fornybar!'
       subtitle: 'Kortreiste europeiske energiløsninger'
-      bg_image: 'images/slider/solarpanel-axitec-slider.png'
+      bg_image: 'images/slider/solarpanel-axitec-slider.jpg'
       image: ''
       image_position: 'false'
       # slider navigator
