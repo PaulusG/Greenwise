@@ -240,23 +240,23 @@ clients_logo_slider:
       link: 'https://www.gridparityag.com/'
 
     # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client3.png'
+    - name: 'Aceleron'
+      logo: 'images/clients/Aceleron-logo-horizontal-black-cropped.png'
       link: '#'
 
     # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client4.png'
+    - name: 'Axitec'
+      logo: 'images/clients/axitec-logo-cropped.png'
       link: '#'
 
     # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client5.png'
+    - name: 'Innoventum'
+      logo: 'images/clients/innoventum-logo-cropped.png'
       link: '#'
 
     # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client6.png'
+    - name: 'Siqens'
+      logo: 'images/clients/logo-siqens-black-cropped.png'
       link: '#'
 
     # slider item loop
