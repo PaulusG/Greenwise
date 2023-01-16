@@ -19,8 +19,7 @@ Søknader for støtte til ulike prosjekt kan vi hjelpe til med.'
     # service item loop
     - name: 'Installerer'
       icon: 'fa-shopping-cart' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Vi er en total leverandør av alle de tjenestene som du trenger for å få et optimalt lokalt tilpasset energi anlegg:
-Energikartlegging,design, prosjektering,leverans og gjennomføring.'
+      content: 'Vi er en total leverandør av alle de tjenestene som du trenger for å få et optimalt lokalt tilpasset energi anlegg.'
 
     # service item loop
     - name: 'Optimaliserer'
