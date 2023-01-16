@@ -46,7 +46,7 @@ slider:
     ############### Slider item loop
     - title: 'Framtiden er fornybar!'
       subtitle: 'Batterier som kan repares og gjenbrukes'
-      bg_image: 'images/slider/bg2.jpg'
+      bg_image: 'images/slider/axitec-batteri.jpg'
       # image: 'images/slider/bg-thumb2.png'
       # image_position: 'right'
       # slider navigator
