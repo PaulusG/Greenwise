@@ -242,29 +242,19 @@ clients_logo_slider:
     # slider item loop
     - name: 'Aceleron'
       logo: 'images/clients/Aceleron-logo-horizontal-black-cropped.png'
-      link: '#'
+      link: 'https://www.aceleronenergy.com/'
 
     # slider item loop
     - name: 'Axitec'
       logo: 'images/clients/axitec-logo-cropped.png'
-      link: '#'
+      link: 'https://www.axitecsolar.com/en'
 
     # slider item loop
     - name: 'Innoventum'
       logo: 'images/clients/innoventum-logo-cropped.png'
-      link: '#'
+      link: 'https://innoventum.se/'
 
     # slider item loop
     - name: 'Siqens'
       logo: 'images/clients/logo-siqens-black-cropped.png'
-      link: '#'
-
-    # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client7.png'
-      link: '#'
-
-    # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client8.png'
-      link: '#'
+      link: 'https://siqens.de/'
