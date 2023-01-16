@@ -17,10 +17,28 @@ company_profile:
       content : "Tekst, så mye dere vil."
 
         # profile tab item loop
-    - name : "Oppgave"
+    - name : "Hva er gevinsten for deg"
       icon : "fa-android" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Tittel Bedriften"
-      content : "Tekst, så mye dere vil."
+      content : " - 1
+Om du oppgradere din energiløsning med eget energiverk
+vil du møte framtidens krav med ren energi.
+
+ - 2
+Da vil du være mindre sårbar for prisendringer i markedet 
+Som vil kunne ødelegge din økonomi.
+
+ - 3
+Du reduserer også kommende CO2 kostnader som alle bransjer vil bli rammet av i økende grad.
+
+ - 4
+Du vil øke verdien av din eiendomsportefølge.
+
+ - 5
+Du investerer i en bærekraftig bedriftsstrategi som vil øke din konkuransekraft in i framtiden.
+
+ - 6
+Dine energiløsninger kan da bli en del av din merkevare og marknadsførings strategi."
       
   
       
