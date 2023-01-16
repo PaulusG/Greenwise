@@ -235,9 +235,9 @@ clients_logo_slider:
       link: 'https://www.koolenindustries.com/'
 
     # slider item loop
-    - name: 'client'
-      logo: 'images/clients/client2.png'
-      link: '#'
+    - name: 'Grid Parity'
+      logo: 'images/clients/grid-parity-logo-cropped.png'
+      link: 'https://www.gridparityag.com/'
 
     # slider item loop
     - name: 'client'
