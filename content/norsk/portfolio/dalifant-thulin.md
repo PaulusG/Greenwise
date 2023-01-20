@@ -19,23 +19,20 @@ description: 'This is meta description.'
 draft: false
 ---
 
-The DALI is based on the 12-meter-high tower has a unique and
-patent-protected design that enables tower installation and maintenance without use of a cranes.
+DALI-tårnet bygger på et 12 meter høyt tårn med et unikt og patentbeskyttet design som gjør det mulig å installere og vedlikeholde tårnet uten bruk av kraner.
 
-The Dali tower offers a wide range of systems, from pure wind to hybrid solutions, that covers many different needs.
+Dali-tårnet tilbyr et bredt spekter av systemer, fra ren vind til hybridløsninger, som dekker mange forskjellige behov.
+Som med alle INNOVENTUM-produktene er tårnet laget av tre og bruker resirkulerte metallskruer som fundament.
+Alle produktene i DALI-serien er også egnet for en on-grid eller mini-grid-konfigurasjon.
 
-As with all of the INNOVENTUM products, the tower is made out of wood and utilizes recycled metal screws as foundation.
-All of the products in the DALI range are also suitable for an on grid or mini-grid configuration.
+Dali er også tilgjengelig i en direkte batteriladingkonfigurasjon (off-grid) som Dali 4.5.
 
-The Dali is also avaible for a direct battery-charging configuration (off-grid) as the Dali 4.5.
+DALI er en ren liten vindløsning som tilbyr lokalt produsert energi som passer for småbedrifter og hjem.
 
-The DALI is a pure small wind solution that offers locally produced energy that is suitable for small businesses and homes.
+DALI POWER TOWER er et hybridsystem som bygger på DALI og maksimerer energiproduksjonen.
+Det gir bærekraftig og lokalt produsert energi ved en kombinasjon av både vindturbin og solpaneler (PV) til små hus og bedrifter.
 
-The DALI POWERTOWER is a hybrid system that is based on the DALI and maximizes energy production.
+Standardkonfigurasjonen er med 8 paneler, men det er mulig å legge til opptil 20 paneler.
 
-It provides sustainable and locally produced energy by a combination of both a wind turbine and solar panels (PV) to small houses and businesses.
-
-The standard configuration is with 8 panels but it is possible to add up to 20 panels.
-
-Robusta trätorn.
-Våra torn är designade för att klara vindar upp till 60 m/s och deras livslängd beräknas till långt över 25 år.
+Robust tre-tårn.
+Våre tårn er designet for å tåle vind opp til 60 m/s, og deres levetid beregnes til langt over 25 år.

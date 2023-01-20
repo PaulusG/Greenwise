@@ -20,12 +20,14 @@ description: 'This is meta description.'
 draft: false
 ---
 
-SolFiT is an innovative, ‘in-roof’ photovoltaic (PV) solar panel system, suitable for commercial and domestic roofs of all kinds. Designed and part manufactured in the UK, its streamlined, all-black look makes it one of the most aesthetic products on the market.
+SolFiT er et innovativt -in-roof- fotovoltaisk (PV) solpanel-system, egnet for kommersielle og private tak av alle slag. Designet og delvis produsert i Storbritannia, gir det en strømlinjeformet, helsvart utseende som gjør det til et av de mest estetiske produktene på markedet.
 
-The easy connecting design makes it faster and safer to install in all kinds of configurations, allowing installers to simply click and go, with the roof tiles fitting alongside for a perfectly flush finish.
+Det enkle tilkoblingsdesignet gjør det raskere og sikrere å installere i alle typer konfigurasjoner, slik at installatører enkelt kan klikke og gå, med takflisene som passer perfekt for en jevn finish.
 
-Each highly durable and MCS Certified panel is fully weatherproof and resistant to wind up-lift, and at 370Wp it is the highest output roof panel on the market.
+Hver svært holdbare og MCS-sertifiserte panel er fullt værbestandig og motstandsdyktig mot vindoppdrift, og med 370Wp er det det høyeste utgangspanel på markedet.
 
-With its all-black in-line aesthetic and strong, durable design, SolFiT looks amazing and will deliver highly efficient energy for decades to come. Take a look at out our gallery to see the finished results.
+Med sitt helsvarte in-line estetiske og sterkt holdbare design, ser SolFiT fantastisk ut og vil levere svært effektiv energi i årene som kommer. Ta en titt på vår galleri for å se de ferdige resultatene.
+
+SolFiT's enkle interlocking ramme-system er enklere, raskere og sikrere å montere enn de fleste andre solpanelproduktene, uten fumlete tetninger å bekymre seg for, eller pakninger, klemmer, klemmer, brakett eller plast. Hvis du starter en installasjon, ta en titt på vår Ressurser-side for å finne alt du trenger.
 
 SolFiT’s simple interlocking framing system is easier, faster and safer to fit than most other solar panel products, with no fiddly seals to worry about, or gaskets, clamps, clips, brackets or plastic. If you’re starting an install, take a look at our Resources page to find everything you need.

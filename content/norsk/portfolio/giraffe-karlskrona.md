@@ -19,10 +19,8 @@ description: 'This is meta description.'
 draft: false
 ---
 
-The GIRAFFE is a state-of-the art hybrid solution that catches the eyes of everyone and provides higher energy density thanany other product on the market.
+GIRAFFEN er en avansert hybridløsning som fanger oppmerksomheten til alle og gir høyere energitetthet enn noe annet produkt på markedet.
 
-The curved wooden frame of the GIRAFFE is made out of
-glue-laminated larch wood and incorporates intelligent angling of the solar panels which enables 40 m2 of solar panels on a 25 m2 footprint and micro-inverters which offers an additional four hours of energy production.
+Den buede trerammen til GIRAFFEN er laget av limtre-laminert lerk tre og inneholder intelligent vinkling av solpanelene som gjør det mulig å ha 40 m2 med solpaneler på en 25 m2 fotavtrykk, og micro-invertere som gir ytterligere fire timer med energiproduksjon.
 
-This award-winning hybrid solution is highly suitable as a charging station for eMobility vehicles or as an eye-catching power station for businesses, small/
-medium houses, community projects, and other public spaces.
+Denne prisbelønte hybridløsningen er svært egnet som lade-stasjon for elbiler eller som en oppsiktsvekkende kraftstasjon for bedrifter, små/medium hjem, fellesskapsprosjekter og andre offentlige rom.

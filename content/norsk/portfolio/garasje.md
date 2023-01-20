@@ -27,24 +27,20 @@ draft: false
 
 SOLAR CARPORT
 
-SOLAR POWER FOR E-VEHCLES
+SOLKRAFT TIL ELBILER
 
-The SOLAR CARPORT gracefully combines both the protection of
-a regular carport with the production of solar power to power
-a home or charge e-Vehicles.
+SOLAR CARPORT kombinerer elegant beskyttelsen av en vanlig carport med produksjonen av solenergi for å drive et hjem eller lade elbiler.
 
-The SOLAR CARPORT is built according to Scandinavian building standards to withstand the powers of mother nature, such as snow load and wind speed, and is waterproof with the help of a railing system.
+SOLAR CARPORT er bygget i samsvar med skandinaviske byggekrav for å tåle naturens krefter, som snøbelastning og vindhastighet, og er vanntett med hjelp av et rekkverk.
 
-The modularity of the Solar Carport makes it highly customizable to suit your needs.
+Modulæriteten til Solar Carport gjør den svært tilpassingsdyktig til dine behov.
 
-The SOLAR CARPORT is compatible with all of the charging poles and batteries on the market to enable you to transfer and store INNOVENTUM eFuel.
+SOLAR CARPORT er kompatibel med alle lade- og batteripoler på markedet for å tillate deg å overføre og lagre INNOVENTUM eFuel.
 
-INNOVENTUM’s SOLAR
-CARPORT incorporates the same features as all other products
-of INNOVENTUM, wooden tower, recycled metal screws foundation, and eye-catching design.
+INNOVENTUM's SOLAR CARPORT har de samme funksjonene som alle andre produkter fra INNOVENTUM, tre-tårn, gjenvunnet metallskruer for fundament og tiltrekkende design.
 
-Vår SOLAR CARPORT kombinerar egenskaperna med en traditionell carport med solceller på taket för att producera förnybar energi för att ladda din elbil eller hem.
+Vår SOLAR CARPORT kombinerer egenskapene til en tradisjonell carport med solceller på taket for å produsere fornybar energi for å lade din elbil eller hjem.
 
-I enlighet med alla INNOVENTUMS produkter är iögonfallande och hållbar design nyckelord gällande carporten genom användandet av trälaminat och skruvfundament.
+I henhold til alle INNOVENTUMs produkter er det åpenbare og holdbare designet nøkkelordene for carporten gjennom bruken av trelaminat og skruefundament.
 
-Genom sin modulära design passar vår SOLAR CARPORT den enskila husägaren lika väl som till att fylla hela parkeringsplatser.
+Gjennom sin modulære design passer vår SOLAR CARPORT like godt for den enkelte hus eier som for å fylle hele parkeringsplassene.
