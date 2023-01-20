@@ -67,7 +67,7 @@ Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksno
     - name : "Samarbeidspartnere"
       icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : Våre samarbeidspartnere"
-      content : "Bedrift 1.
+      content : "Koolen industries, https://www.koolenindustries.com/Bedrift 1.
       Tekst om bedrift 1 <br>
       Bedrift 2.
       Tekst om bedrift 2 <br>
@@ -78,7 +78,7 @@ Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksno
     # profile tab item loop
     #- name : "Dedicated Support"
     #  icon : "fa-support" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "tittel, om hva dere vil"
+      title : "Våre samarbeidspartnere"
     #  content : "Over the year we have lots of experience in our field. In sit amet massa sapien. Vestibulum diam turpis, gravida in lobortis id, ornare a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis nulla non elit dignissim suscipit. Duis lorem nulla, eleifend."
 
 
