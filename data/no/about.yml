@@ -18,7 +18,7 @@ company_profile:
 
         # profile tab item loop
     - name : "Fordelen for deg"
-      icon : "fa-android" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon : "fa-line-chart" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Hva er fordelen for deg"
       content : " - 1
 Om du oppgradere din energiløsning med eget energiverk
@@ -44,7 +44,7 @@ Dine energiløsninger kan da bli en del av din merkevare og marknadsførings str
       
     # profile tab item loop
     - name : "Vår Ambisjon"
-      icon : "fa-pagelines" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon : "fa-bullseye" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Rimelig, Tilgjengelig, Oppnålig og betalingsbar"
       content : "1
 Er å gjøre fornybare energiverk til den nye normalen
@@ -65,7 +65,7 @@ Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksno
     
         # profile tab item loop
     - name : "Samarbeidspartnere"
-      icon : "fa-pagelines" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : Våre samarbeidspartnere"
       content : "Bedrift 1.
       Tekst om bedrift 1 <br>
