@@ -78,8 +78,8 @@ Dine energiløsninger kan da bli en del av din merkevare og marknadsførings str
       title : "Koolen Industires"
       content : "Tekst om paraply bedriften Koolen Industries
       
-      <div class="">
-        ![Be Solar](images/Koolen/be-solar-store-logo.png)
+      <div>
+        <img src="images/Koolen/be-solar-store-logo.png" alt="drawing" style="width:200px;"/>
       </div>
       
       "
