@@ -13,13 +13,13 @@ company_profile:
     # profile tab item loop
     - name : "Bedriften"
       icon : "fa-briefcase" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "Tittel Bedriften"
+      title : "Greenwise AS"
       content : "<p>Greenwise AS er et selskap  som selger bærekraftige energiløsninger for fremtiden. Der vi prioriterer Europeiske produsenter som har et moralsk og godt garantiansvar. Og som er villig til å gi nødvendig service til sine produkter.
 Vi  tilbyr alt innen solenergi, vindenergi ,bioenergi, batteri, system for energilagring og energieffektivisering.
 Og komplette system for å optimalisere og styre energibruken basert på lokale behov, YR og energipris.</p>
-Bedriften har et sterkt fokus på å redusere klimagassutslippene og øke bruken av fornybare energikilder. Vi jobber tett med lokale myndigheter og andre partnere for å utvikle løsninger som er både økonomisk lønnsomme og miljøvennlige.Vi deltar i nasjonale prosjekt og EU prosjekter for å lære og utvikle de beste løsningene sammen med andre ledende leverandører og universiteter i Norge, Sverige og Tyskland.<br>
-Vi har for eksempel  solenergipaneler i ulike størrelser, vektklasser og farger og i ulike materialer for ulike formål. Slik at en kan integrere dem i ulike konstruksjoner med arkitektens visuelle ønsker intakt. ALLE våre vindturbiner er effektive og lydløse.
-Bedriften er stolte av å være en pådriver for bærekraftig utvikling og ønsker å være med på å skape en mer miljøvennlig fremtid. De er alltid villige til å diskutere energiløsninger med sine kunder og hjelpe dem med å finne den beste løsningen for deres behov.
+<p>Bedriften har et sterkt fokus på å redusere klimagassutslippene og øke bruken av fornybare energikilder. Vi jobber tett med lokale myndigheter og andre partnere for å utvikle løsninger som er både økonomisk lønnsomme og miljøvennlige.Vi deltar i nasjonale prosjekt og EU prosjekter for å lære og utvikle de beste løsningene sammen med andre ledende leverandører og universiteter i Norge, Sverige og Tyskland.</p>
+<p>Vi har for eksempel  solenergipaneler i ulike størrelser, vektklasser og farger og i ulike materialer for ulike formål. Slik at en kan integrere dem i ulike konstruksjoner med arkitektens visuelle ønsker intakt. ALLE våre vindturbiner er effektive og lydløse.</p>
+<p>Bedriften er stolte av å være en pådriver for bærekraftig utvikling og ønsker å være med på å skape en mer miljøvennlig fremtid. De er alltid villige til å diskutere energiløsninger med sine kunder og hjelpe dem med å finne den beste løsningen for deres behov.</p>
 "
 
         # profile tab item loop
