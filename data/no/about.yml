@@ -3,13 +3,7 @@ company_profile:
   enable : true
   title : "Greenwise"
   title_icon : "fa-suitcase" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-  profile_tab:
-    # profile tab item loop
-    - name : "Hvem er vi"
-      icon : "fa-info-circle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "Hvem er vi"
-      content : "Tekst, så mye dere vil."
-      
+  profile_tab:    
     # profile tab item loop
     - name : "Bedriften"
       icon : "fa-briefcase" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
@@ -52,22 +46,19 @@ Dine energiløsninger kan da bli en del av din merkevare og marknadsførings str
     - name : "Vår Ambisjon"
       icon : "fa-bullseye" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Rimelig, Tilgjengelig, Oppnålig og betalingsbar"
-      content : "1
-Er å gjøre fornybare energiverk til den nye normalen
-Og å hjelpe næringslivet til å nå sine klimamål
+      content : "
+        Er å gjøre fornybare energiverk til den nye normalen
+        Og å hjelpe næringslivet til å nå sine klimamål
 
-2
-Sette sammen løsninger for fosilfrei byggeplasser
+        Sette sammen løsninger for fosilfrei byggeplasser
 
-3
-Fase ut store forurensende dieselagregat med utslippsfrie Fuelcell løsninger som er konkuransedyktige på pris
+        Fase ut store forurensende dieselagregat med utslippsfrie Fuelcell løsninger som er konkuransedyktige på pris
 
-4
-Er å ha solenergiløsninger som passer for alle formål.
-Standard, lettvekt , Rustfrie , tekstilbaserte , bøyelige. I alle farger for ulike fasadeløsninger, som 'tak' som beskytter planter osv
-5
-Utvikle de mest komplette og robuste digitale styrings system.
-Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksnommer."
+        Er å ha solenergiløsninger som passer for alle formål.
+        Standard, lettvekt , Rustfrie , tekstilbaserte , bøyelige. I alle farger for ulike fasadeløsninger, som 'tak' som beskytter planter osv
+
+        Utvikle de mest komplette og robuste digitale styrings system.
+        Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksnommer."
     
         # profile tab item loop
     - name : "Samarbeidspartnere"
@@ -85,7 +76,11 @@ Som og vil styre et -energy as a service- anlegg med ulike kunder på et bruksno
     - name : "Koolen Industries"
       icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Koolen Industires"
-      content : "Tekst om paraply bedriften Koolen Industries"
+      content : "Tekst om paraply bedriften Koolen Industries
+      
+      
+      
+      "
       
       
     # profile tab item loop
