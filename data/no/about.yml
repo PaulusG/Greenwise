@@ -45,42 +45,23 @@ Dine energiløsninger kan da bli en del av din merkevare og marknadsførings str
       icon : "fa-bullseye" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Hva er fordelen for deg"
       content : "
-Er å gjøre fornybare energiverk til den nye normalen
-        Og å hjelpe næringslivet til å nå sine klimamål
-
-        Sette sammen løsninger for fosilfrei byggeplasser
-
-        Fase ut store forurensende dieselagregat med utslippsfrie Fuelcell løsninger som er konkuransedyktige på pris
-
-        Er å ha solenergiløsninger som passer for alle formål.
-        Standard, lettvekt , Rustfrie , tekstilbaserte , bøyelige. I alle farger for ulike fasadeløsninger, som 'tak' som beskytter planter osv
-
-        Utvikle de mest komplette og robuste digitale styrings system.
-        Som og vil styre et 'energy as a service' anlegg med ulike kunder på et bruksnommer."
-      
-          # profile tab item loop
-    - name : "Vår Ambisjon"
-      icon : "fa-bullseye" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "Våre ambisjoner"
-      content : "Noe her"
-      
-    # profile tab item loop
-    - name : "Vår Ambisjon"
-      icon : "fa-bullseye" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      title : "Rimelig, Tilgjengelig, Oppnålig og betalingsbar"
-      content : "
         Er å gjøre fornybare energiverk til den nye normalen
-        Og å hjelpe næringslivet til å nå sine klimamål
+        Og å hjelpe næringslivet til å nå sine klimamål.
 
-        Sette sammen løsninger for fosilfrei byggeplasser
 
-        Fase ut store forurensende dieselagregat med utslippsfrie Fuelcell løsninger som er konkuransedyktige på pris
+        Sette sammen løsninger for fosilfrei byggeplasser.
+
+
+        Fase ut store forurensende dieselagregat med utslippsfrie Fuelcell løsninger som er konkuransedyktige på pris.
+
 
         Er å ha solenergiløsninger som passer for alle formål.
-        Standard, lettvekt , Rustfrie , tekstilbaserte , bøyelige. I alle farger for ulike fasadeløsninger, som 'tak' som beskytter planter osv
+        Standard, lettvekt, rustfrie, tekstilbaserte, bøyelige. I alle farger for ulike fasadeløsninger, som 'tak' som beskytter planter osv.
+
 
         Utvikle de mest komplette og robuste digitale styrings system.
         Som og vil styre et 'energy as a service' anlegg med ulike kunder på et bruksnommer."
+      
     
         # profile tab item loop
     - name : "Samarbeidspartnere"
@@ -99,7 +80,7 @@ Er å gjøre fornybare energiverk til den nye normalen
       icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : "Koolen Industires"
       content : "Tekst om paraply bedriften Koolen Industries.
-          ekstra tekst
+          - Koolen industries, [koolenindustries.com](https://www.koolenindustries.com/)
       "
     
 
