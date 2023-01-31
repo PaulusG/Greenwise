@@ -8,7 +8,8 @@ paginate = "3"
 summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
-
+# Default language
+defaultContentLanguage = "no"
 # disqus short name
 disqusShortname = "#" # get your shortname form here : https://disqus.com
 
@@ -216,7 +217,7 @@ image = "images/gallery/9.jpg"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
