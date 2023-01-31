@@ -258,3 +258,8 @@ clients_logo_slider:
     - name: 'Siqens'
       logo: 'images/clients/logo-siqens-black-cropped.png'
       link: 'https://siqens.de/'
+
+    # slider item loop
+    - name: 'SmartGrid'
+      logo: 'images/clients/smartgrid-logo.png'
+      link: 'https://www.smartgrid.com/'
