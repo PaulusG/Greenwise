@@ -67,12 +67,42 @@ Dine energiløsninger kan da bli en del av din merkevare og marknadsførings str
     - name : "Samarbeidspartnere"
       icon : "fa-users" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
       title : Våre samarbeidspartnere"
-      content : " - Koolen industries, [koolenindustries.com](https://www.koolenindustries.com/).
+      content : "
+      
+      ###Koolen industries
+      [koolenindustries.com](https://www.koolenindustries.com/).
       <br>
-      Bedrift 2.
-      Tekst om bedrift 2 <br>
-      Bedrift 3.
-      Tekst om bedrift 3 <br>"
+
+      ###Innoventum
+        Professor Sigvald Harryson starta Innoventum i 2010, på bakgrunn av sitt arbeid med småskala vindenergi ved 3 universitet i Sverige og Danmark.
+        Hans mål har vært å få fram stabile løsninger for småskala offgrid ingrid energiløsninger.
+
+
+        Når det ikke er sol , er det oftest vind!
+        Gjennom 12 år har han bygd opp et firma som blant annet er det eneste som er valgt ut til å kunne levere småskala lydløs vindenergi til FN.
+
+
+      ###Siqens
+        Ble startet i 2012, målet var å utvikle brenselceller som kunne produsere energi stabilt gjennom 24/7 365 dager i året. Basert på miljøvennlig drivstoff.
+        Dermed kan man fase ut tusenvis miljøfiendtlige og ustabile dieselaggregat.
+
+
+      ###Axitec
+        Axitec er en tysk utvikler av kvalitets panel, elbil lading og batterisystemer.
+        De har bygd opp en årlig produksjonskapasitet på 1,2 GWp med solpanel.
+        Med Tysk kvalitet kan vi garantere at produktet levere 85 % av den originale produksjonen etter 25 år.
+
+
+      ###Absolicon
+        Endelig er det kommet en batteriprodusent, som etter 7 års utvikling har skapt et produkt som lett og lar seg reparere.
+        Dagens standard er batteri som består av tusenvis små celler. Ryker en celle ryker alle !
+        Absolicon lar deg lett bytte ut den skada cella så du får enkelt gjenbruke ditt gamle batteri.
+
+
+      ###Agri-pv
+        Gjør det mulig å nytte grøderike jordbruksareal til energiproduksjon.
+        På en måte som også gavner og fremmer høyere produksjon av grønnsaker, bær og frukt.
+        De lager også produkter for integrasjon av solceller i vegger, gjerder og altaner."
 
 
               # profile tab item loop
