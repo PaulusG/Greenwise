@@ -19,8 +19,10 @@ description: 'This is meta description.'
 draft: false
 ---
 
-Container solutions
-Large-scale energy storage solutions to power electrification for industrial, energy intensive applications.
+**Container løsninger**
 
-Modular by design, scalable to your project
-SmartGrid’s flexible container-based battery technology is developed to free organizations from any grid limitations. From anything between a few kWh to several MWh, our products are a robust, reliable source of clean energy and put you in charge of how you power your business. All storage solutions come with SmartGrid’s proprietary software that allows smart control, remote access and optimal power provisioning.
+Storskala energilagringsløsninger for å strømføre elektrifisering for industrielle, energikrevende applikasjoner.
+
+Modulær i design, skalerbar til ditt prosjekt.
+
+SmartGrid's fleksible containerbaserte batteriteknologi er utviklet for å frigjøre organisasjoner fra noen nettbegrensninger. Fra alt mellom noen kWh til flere MWh, er våre produkter en robust og pålitelig kilde til ren energi og gir deg kontroll over hvordan du makulerer din bedrift. Alle lagringsløsninger leveres med SmartGrid's proprietære programvare som tillater smart kontroll, fjern tilgang og optimal strømtilførsel.

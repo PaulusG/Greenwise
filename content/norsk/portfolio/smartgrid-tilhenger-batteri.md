@@ -20,8 +20,11 @@ description: 'This is meta description.'
 draft: false
 ---
 
-Enabling large-scale charging
-SmartGrid’s energy storage systems are designed to support ultra-fast charging for trucks and delivery vehicles, providing constant output independent of grid connections. Our modular systems can easily be scaled, connected and extended to support vehicle fleets of any size and future growth. Simply connect fast chargers to the built-in DC or AC connections, or contact us for a custom storage solution with integrated CCS2 fast chargers.
+**Aktiverer storskala lading**
+
+SmartGrid's energilagringssystemer er designet for å støtte ultrahurtiglading for lastebiler og leveringskjøretøyer, og gir en konstant utgang uavhengig av nettforbindelser.
+
+Våre modulære systemer kan enkelt skaleres, kobles sammen og utvides for å støtte kjøretøyflåter i alle størrelser og fremtidig vekst. Bare koble hurtigladere til innebygde DC- eller AC-tilkoblinger, eller kontakt oss for en tilpasset lagringsløsning med integrerte CCS2 hurtigladere.
 
 ​
 
