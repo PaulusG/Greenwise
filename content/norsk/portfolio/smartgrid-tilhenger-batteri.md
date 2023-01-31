@@ -9,7 +9,7 @@ images:
 # clients
 clients: 'Solfit'
 # filter types
-types: ['solcelle']
+types: ['batteri']
 # used skills
 skills: ['integrert på taket', 'carport', 'vanntett', '12 m span']
 # porjects link

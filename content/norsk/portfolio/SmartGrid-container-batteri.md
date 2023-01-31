@@ -8,7 +8,7 @@ images:
 # clients
 clients: 'Dalifant'
 # filter types
-types: ['vind']
+types: ['batteri']
 # used skills
 skills: ['Tretårn', 'online overvåkning', 'miljøvennlig', 'lavt støynivå']
 # porjects link
@@ -19,20 +19,8 @@ description: 'This is meta description.'
 draft: false
 ---
 
-DALI-tårnet bygger på et 12 meter høyt tårn med et unikt og patentbeskyttet design som gjør det mulig å installere og vedlikeholde tårnet uten bruk av kraner.
+Container solutions
+Large-scale energy storage solutions to power electrification for industrial, energy intensive applications.
 
-Dali-tårnet tilbyr et bredt spekter av systemer, fra ren vind til hybridløsninger, som dekker mange forskjellige behov.
-Som med alle INNOVENTUM-produktene er tårnet laget av tre og bruker resirkulerte metallskruer som fundament.
-Alle produktene i DALI-serien er også egnet for en on-grid eller mini-grid-konfigurasjon.
-
-Dali er også tilgjengelig i en direkte batteriladingkonfigurasjon (off-grid) som Dali 4.5.
-
-DALI er en ren liten vindløsning som tilbyr lokalt produsert energi som passer for småbedrifter og hjem.
-
-DALI POWER TOWER er et hybridsystem som bygger på DALI og maksimerer energiproduksjonen.
-Det gir bærekraftig og lokalt produsert energi ved en kombinasjon av både vindturbin og solpaneler (PV) til små hus og bedrifter.
-
-Standardkonfigurasjonen er med 8 paneler, men det er mulig å legge til opptil 20 paneler.
-
-Robust tre-tårn.
-Våre tårn er designet for å tåle vind opp til 60 m/s, og deres levetid beregnes til langt over 25 år.
+Modular by design, scalable to your project
+SmartGrid’s flexible container-based battery technology is developed to free organizations from any grid limitations. From anything between a few kWh to several MWh, our products are a robust, reliable source of clean energy and put you in charge of how you power your business. All storage solutions come with SmartGrid’s proprietary software that allows smart control, remote access and optimal power provisioning.
