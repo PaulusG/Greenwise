@@ -25,10 +25,3 @@ draft: false
 SmartGrid's energilagringssystemer er designet for å støtte ultrahurtiglading for lastebiler og leveringskjøretøyer, og gir en konstant utgang uavhengig av nettforbindelser.
 
 Våre modulære systemer kan enkelt skaleres, kobles sammen og utvides for å støtte kjøretøyflåter i alle størrelser og fremtidig vekst. Bare koble hurtigladere til innebygde DC- eller AC-tilkoblinger, eller kontakt oss for en tilpasset lagringsløsning med integrerte CCS2 hurtigladere.
-
-​
-
-To power the extra mile whenever you need it, SmartGrid’s battery systems support deep discharging without any long-term implications on battery cell health or capacity.
-
-Powering vehicle charging for transport and logistics
-Tomorrow’s zero-emissions zones for trucks and delivery vehicles are creating new charging and network challenges for electric vehicle fleets. At SmartGrid, we are the partner for charging-ready battery systems to power your EV logistics and transport.
