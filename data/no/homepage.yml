@@ -110,47 +110,47 @@ feature:
     # feature item loop
     - name: 'Borettslag'
       icon: 'fa-heart-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Vi kan lage et system som viser oversikt på den enkeltes forbruk av solenergi'
+      content: 'Vi har et styringssystem som viser oversikt på den enkeltes forbruk av solenergi. Slik at man har fakturera grunnlag.'
 
     # feature item loop
     - name: 'Fiskeoppdrett'
       icon: 'fa-tint' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Vi tilbyr system som gir 0 utslipp for de som har store dieselaggregat'
+      content: 'Vi tilbyr fuel cell system som gir  CO2 utslipp fri energi. Slik at man kan fase ut dieselaggregat.'
 
     # feature item loop
     - name: 'Parkeringsplasser'
       icon: 'fa-car' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi, kan inkludere billading'
+      content: 'Parkeringsanlegg kan dekkes med store tak- konstruksjoner basert på veksthus teknologi, systemet kan inkluderer billading.'
 
     # feature item loop
     - name: 'Skoler'
       icon: 'fa-graduation-cap' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'På skoler kan vi levere systemer som viser forbruket per klasserom, det gir konkurranse og læring'
+      content: 'På skoler kan vi levere systemer som viser forbruket per klasserom, det gir konkurranse (energisparing) og læring.'
 
     # feature item loop
     - name: 'Jordbruk'
       icon: 'fa-pagelines' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'På en gård trenger man strøm, varme og kjøling. Dette kan vi designe ut i fra lokale forhold'
+      content: 'På en gård trenger man strøm, varme og kjøling. Dette kan vi designe optimalt på bakgrunn av lokale forhold.'
 
     # feature item loop
     - name: 'Bolig'
       icon: 'fa-home' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: '60 - 70 prosent av bolingens energibehov er varme, solvarme og lagring. sammen med varmepumpe er da viktig'
+      content: '60 - 70 prosent av bolingens energibehov er varme, solvarme og lagring, sammen med varmepumpe er da viktig.Vi har system for å bruke sol direkte til varme også.'
 
     # feature item loop
     - name: 'Vegvesenet'
       icon: 'fa-road' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Støyskjermer kan bygges med lettvekts paneler som ikke gir lys refleksjoner mot bilfører'
+      content: 'Støyskjermer kan bygges med lettvekts paneler som ikke gir lys refleksjoner for bilfører. Vi tilbyr også løsninger fossil frie byggeplass.'
 
     # feature item loop
     - name: 'Hytter'
       icon: 'fa-flag' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Offgrid systemer basert på forbruks profiler kan vi levere med sol, lydløs vindmølle og batteri'
+      content: 'Offgrid systemer basert på forbruks profiler kan vi levere med solenergi, lydløs vindmølle og batteri.'
 
     # feature item loop
     - name: 'Industri'
       icon: 'fa-codepen' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content: 'Store takflater kan dekkes med -vanlige- panel på 25 kg eller med 3 kg lettvektspanel'
+      content: 'Store takflater kan dekkes med -vanlige- panel på 25 kg eller med 3 kg lettvekt panel. Snølast profilen til bygge bestemmer dette.'
 
 ############################### about ##################################
 about:
@@ -261,5 +261,5 @@ clients_logo_slider:
 
     # slider item loop
     - name: 'SmartGrid'
-      logo: 'images/clients/smartgrid-logo.png'
+      logo: 'images/clients/smartgrid-logo-cropped.png'
       link: 'https://www.smartgrid.com/'
