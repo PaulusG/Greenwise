@@ -9,7 +9,7 @@ images:
 # clients
 clients: 'Greenhouse PV solutions'
 # filter types
-types: ['solcelle']
+types: ['solceller']
 # used skills
 skills: ['Vektshus', 'solcelle', 'glastak', '9x4M FJB 180 Wp']
 # porjects link
