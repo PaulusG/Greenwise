@@ -8,7 +8,7 @@ images:
 # clients
 clients: 'Garasje'
 # filter types
-types: ['solcelle']
+types: ['solceller']
 # used skills
 skills: [
     '15 paneler',
