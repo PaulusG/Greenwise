@@ -8,4 +8,4 @@ description: 'This is meta description.'
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget erat magna. Pellentesque justo ante
+Du kan gjerne kontakte oss på de adressene som er oppgitt nedenfor.
