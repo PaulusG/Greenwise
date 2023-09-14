@@ -245,18 +245,20 @@ map_marker = "images/marker.png"
 # link = "#"
 
 ################################### English language #####################################
-# [Languages.en]
-# languageName = "En"
-# languageCode = "en-us"
-# contentDir = "content/english"
-# weight = 2
-# footer content
-# footer_content = "We are a awward winning multinational company. We believe in quality and standard worldwide."
-# copyright
-# copyright = "Designed By [Uijting](https://pauluijting.no/no/)"
+[Languages.en]
+disabled = true
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+footer content
+footer_content = "We are a awward winning multinational company. We believe in quality and standard worldwide."
+copyright
+copyright = "Designed By [Uijting](https://pauluijting.no/no/)"
 
 ################################### French language #####################################
 [Languages.no]
+disabled = false
 languageName = "No"
 languageCode = "no-nb"
 contentDir = "content/norsk"
