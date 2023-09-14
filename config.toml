@@ -190,7 +190,7 @@ address = "Skotfossvegen 275 - 3720 Skien - Norge"
 phone = "+47 970 68 664"
 email = "info@greenwise.no"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xvonzwaw" # contact form works with https://formspree.io
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
