@@ -251,9 +251,9 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
-footer content
+# footer content
 footer_content = "We are a awward winning multinational company. We believe in quality and standard worldwide."
-copyright
+# copyright
 copyright = "Designed By [Uijting](https://pauluijting.no/no/)"
 
 ################################### French language #####################################
