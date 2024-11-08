@@ -127,15 +127,15 @@ weight = 6
 
 ############################## Norsk navigation ###############################
 
-[[Languages.no.menu.main]]
-name = "Om oss"
-URL = "about/"
-weight = 2
+ # [[Languages.no.menu.main]]
+ # name = "Om oss"
+ # URL = "about/"
+ # weight = 2
 
-[[Languages.no.menu.main]]
-name = "Produkter"
-URL = "portfolio/"
-weight = 3
+ # [[Languages.no.menu.main]]
+ # name = "Produkter"
+ # URL = "portfolio/"
+ # weight = 3
 
 # [[Languages.no.menu.main]]
 # name = "Blogg"
@@ -172,10 +172,10 @@ weight = 3
   # name = "Pricing"
   # URL = "pricing/"
   
-[[Languages.no.menu.main]]
-name = "Kontakt"
-URL = "contact/"
-weight = 6
+  # [[Languages.no.menu.main]]
+  # name = "Kontakt"
+  #URL = "contact/"
+  # weight = 6
 
 
 #################### default parameters ################################

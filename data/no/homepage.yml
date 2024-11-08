@@ -1,4 +1,4 @@
-############################ Slider ##########################
+ <!--   ############################ Slider ##########################
 slider:
   enable: true
   slider_item:
@@ -263,3 +263,10 @@ clients_logo_slider:
     - name: 'SmartGrid'
       logo: 'images/clients/smartgrid-logo-cropped.png'
       link: 'https://www.smartgrid.com/'
+-->
+
+<!-- content/_index.md -->
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
+    <p style="font-size: 1.5em;">Vi beklager, men denne nettsiden er for øyeblikket utilgjengelig og kan være stengt på ubestemt tid.</p>
+</div>
