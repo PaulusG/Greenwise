@@ -66,6 +66,8 @@ slider:
           style: 'solid'
           link: '#'
 
+<!--
+
 ############################### Service ####################################
 service:
   enable: true
