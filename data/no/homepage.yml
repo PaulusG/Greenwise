@@ -66,7 +66,7 @@ slider:
           style: 'solid'
           link: '#'
 
-<!--
+<!---
 
 ############################### Service ####################################
 service:
@@ -265,5 +265,5 @@ clients_logo_slider:
     - name: 'SmartGrid'
       logo: 'images/clients/smartgrid-logo-cropped.png'
       link: 'https://www.smartgrid.com/'
--->
+--->
 
