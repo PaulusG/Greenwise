@@ -3,15 +3,15 @@ slider:
   enable: true
   slider_item:
     ################# Slider item loop
-    - title: 'Framtiden er fornybar!'
-      subtitle: 'Kortreiste europeiske energiløsninger'
-      bg_image: 'images/slider/solarpanel-axitec-slider.jpg'
-      image: ''
-      image_position: 'false'
+    - title: 'Vi beklager, men denne nettsiden er for øyeblikket utilgjengelig og kan være stengt på ubestemt tid. '
+      #subtitle: ''
+      #bg_image: 'images/slider/solarpanel-axitec-slider.jpg'
+      # image: ''
+      # image_position: 'false'
       # slider navigator
-      navigator:
-        label: 'Solceller'
-        icon: 'fa-sun-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      # navigator:
+        # label: 'Solceller'
+        # icon: 'fa-sun-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
       buttons:
@@ -21,41 +21,41 @@ slider:
         #  link: '#'
 
         # button loop
-        - label: 'Les mer'
-          style: 'solid'
-          link: ''
+        - # label: 'Les mer'
+          # style: 'solid'
+          # link: ''
 
     ############### Slider item loop
-    - title: 'framtiden er fornybar!'
-      subtitle: 'Lydløse vindmøller fra 1000 kW til 11000 kW'
-      bg_image: 'images/slider/Dalifant-Mandelmann-2.jpg'
+    - # title: 'framtiden er fornybar!'
+      # subtitle: 'Lydløse vindmøller fra 1000 kW til 11000 kW'
+      # bg_image: 'images/slider/Dalifant-Mandelmann-2.jpg'
       # image: 'images/slider/Dalifant-Mandelmann-2.jpg'
-      image_position: 'left'
+      # image_position: 'left'
       # slider navigator
-      navigator:
+      # navigator:
         label: 'Vindenergi'
         icon: 'fa-paper-plane-o' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
-      buttons:
+      # buttons:
         # button loop
         - label: 'Les mer'
           style: 'solid'
           link: '/no/portfolio/vindmolle-solcelle-pv-solutions/'
 
     ############### Slider item loop
-    - title: 'Framtiden er fornybar!'
-      subtitle: 'Batterier som kan repares og gjenbrukes'
-      bg_image: 'images/slider/axitec-batteri.jpg'
+    - # title: 'Framtiden er fornybar!'
+      # subtitle: 'Batterier som kan repares og gjenbrukes'
+      # bg_image: 'images/slider/axitec-batteri.jpg'
       # image: 'images/slider/bg-thumb2.png'
       # image_position: 'right'
       # slider navigator
-      navigator:
-        label: 'Batteri'
-        icon: 'fa-battery-three-quarters' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      # navigator:
+        # label: 'Batteri'
+        # icon: 'fa-battery-three-quarters' # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
 
       # slider buttons
-      buttons:
+      # buttons:
         # button loop
         #- label: 'Les mer'
         #  style: 'white'
@@ -265,8 +265,3 @@ clients_logo_slider:
       link: 'https://www.smartgrid.com/'
 -->
 
-<!-- content/_index.md -->
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
-    <p style="font-size: 1.5em;">Vi beklager, men denne nettsiden er for øyeblikket utilgjengelig og kan være stengt på ubestemt tid.</p>
-</div>
